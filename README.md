@@ -29,11 +29,13 @@
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
 ![WhatsApp Image 2023-11-29 at 20 51 51_cf9756ac](https://github.com/MangariDeeraj/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365485/e944f4ca-0801-4a46-9b18-482d829538a5)
 
+![WhatsApp Image 2023-11-29 at 20 52 24_5d794ed1](https://github.com/MangariDeeraj/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365485/166e698f-093b-432f-9b96-8dd2c207c0bb)
+
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
 ![WhatsApp Image 2023-11-29 at 20 52 51_618bd50a](https://github.com/MangariDeeraj/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365485/65d1fe4b-ff68-4878-8c37-d159dab02115)
 
-![Uploading WhatsApp Image 2023-11-29 at 20.53.22_94a27f7c.jpg…]()
+![WhatsApp Image 2023-11-29 at 20 53 22_66319298](https://github.com/MangariDeeraj/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365485/babf3c78-1d15-42c4-b299-dfa58e1bc0fa)
 
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
